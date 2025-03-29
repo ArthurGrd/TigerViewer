@@ -1,0 +1,9 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "lunasvg"]
+	path = lunasvg
+	url = https://github.com/sammycage/lunasvg.git
+[submodule "tinyfiledialogs"]
+	path = tinyfiledialogs
+	url = https://github.com/native-toolkit/libtinyfiledialogs.git
